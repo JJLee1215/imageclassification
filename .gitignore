@@ -1,0 +1,34 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+imgvenv/
+
+#folder
+0.prev/
+sorted*/
+db_csv/
+data/trash_blank
+data/trash_lying
+data/trash_sitting
+data/trash_standing
+
+# image 파일
+*.jpg 
+*.png
+*.peg
+
+# 가중치 파일
+*.pth
+
+# 압축파일
+*.zip
+
+# csv파일
+*.csv
+
+# .py 파일
+DataExtract.py
+DataExtract2.py
+DataExtract3.py
